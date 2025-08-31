@@ -29,3 +29,15 @@ body {
 #head{
   color:white;
 }
+
+.started-button>p{
+  color: rgba(73, 73, 73, 1);
+}
+
+
+.links>h3{
+  margin-bottom: 24px;
+}
+.list-item{
+  margin-bottom: 18px;
+}
